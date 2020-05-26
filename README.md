@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/nwa96fjq8p6g0k0n?svg=true)](https://ci.appveyor.com/project/KateGaw/ra-events-state-filter)
 
-https://kategaw.github.io/RA_events-state_-_filter/
+https://kategaw.github.io/RA_events-state_filter/
 
 -------------------------------------------------------------------------------
 
