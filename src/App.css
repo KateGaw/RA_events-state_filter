@@ -1,0 +1,27 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    flex-flow: wrap;
+    justify-content: center;
+}
+
+.image {
+    margin: 10px;
+    align-self: center;
+}
+
+button {
+    margin: 20px 12px;
+    padding: 8px 10px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+}
+
+button:focus {
+    outline: none;
+}
+
+.btn-selected {
+    background-color: #d4d3d3;
+}
