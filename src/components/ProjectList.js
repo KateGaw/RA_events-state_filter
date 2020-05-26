@@ -6,7 +6,7 @@ const ProjectList = (props) => {
     <div className="list">
       {props.projects.map((item, index) => (
         <div key={index} className="image">
-          <img src={item.img} />
+          <img src={item.img} alt={item.img}/>
         </div>
       ))}
     </div>
