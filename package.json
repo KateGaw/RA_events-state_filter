@@ -2,6 +2,7 @@
     "name": "RA_events-state_filter",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://kategaw.github.io/RA_events-state_filter/",
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
         "@testing-library/react": "^9.3.2",
